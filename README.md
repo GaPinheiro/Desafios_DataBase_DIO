@@ -10,4 +10,6 @@
 
 #### Desafio_5 - O Papel dos Bancos de Dados SQL e NoSQL na Engenharia de Dados
 
+#### Desafio_6 - Análise de dados com Python e Pandas
+
 
